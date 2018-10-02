@@ -1,0 +1,73 @@
+nav {
+	text-align: center;
+	background-color: white;
+	position: fixed; 
+	width: 100%;
+}
+
+.nav-wrapper li{
+	display: inline; 
+	padding: 60px;
+	font-family: 'Mali', cursive;
+}
+
+.nav-wrapper a{
+	color: black;
+}
+
+#info{
+	text-align: center;
+	font-family: 'Mali', cursive;
+	font-size: 25px;
+}
+
+#mesection{
+	background-color: blue;
+	height: 100vh;
+	padding: 80px 20px; 
+}
+
+#momsection{
+	background-color: purple;
+	height: 100vh;
+	padding: 80px 20px; 
+}
+
+#dadsection{
+	background-color: navy;
+	height: 100vh;
+	padding: 60px 20px; 
+}
+
+#jennsection{
+	background-color: pink;
+	height: 100vh;
+	padding: 130px 20px; 
+}	
+
+#stephsection{
+	background-color: beige;
+	height: 100vh;
+	padding: 130px 20px; 
+}
+
+.flip{
+	transform: rotate(90deg);
+}
+
+.text1{
+	background-color: white;
+	color: black;
+	margin-left: 240px;
+	height: 220px;
+	width: 800px;
+}
+
+.text2{
+	background-color: white;
+	margin-left: 240px;
+	margin-top: 70px;
+	color: black;
+	height: 220px;
+	width: 800px;
+}
